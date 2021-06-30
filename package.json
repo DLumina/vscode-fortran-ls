@@ -132,7 +132,7 @@
         "postinstall": "node ./node_modules/vscode/bin/install"
     },
     "dependencies": {
-        "vscode-languageclient": "5.1.1"
+        "vscode-languageclient": "7.0.0"
     },
     "devDependencies": {
         "@types/node": "8.10.29",
